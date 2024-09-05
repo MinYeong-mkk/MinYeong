@@ -7,7 +7,8 @@
   <br>
 
 
-![내 사진](./images/맹꽁이2.jpg)
+<img src="./images/맹꽁이2.jpg" alt="이미지 설명" width="200" height="200">
+
 
 <br>
 <br>
