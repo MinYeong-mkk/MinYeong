@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/jiwoni1/jiwoni1/blob/master/github_title.png" />
-</div>
+
 
 <br>
 
