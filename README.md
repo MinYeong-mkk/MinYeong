@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/jiwoni1/jiwoni1/blob/master/github_title.png" />
+</div>
 
-<!--
-**MinYeong-mkk/MinYeong-mkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h4 align="center">
+김민영 입니다.
+  <br>
+개발 지식이 부족하지만 열심히 하겠습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<!--내용 부분-->
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
+
+</div>
+
+
+
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+
+<br>
+
+
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  </a>
+  <a href="mailto:kmy26377538@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kmy26377538@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
