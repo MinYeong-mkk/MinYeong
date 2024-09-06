@@ -32,19 +32,6 @@
 🐈계속줘 계속줘🐈
 <br>
 
-<h4 align="center">
-🐱 김민영 입니다. 🐱
-  <br>
-
-<br>
-<br>
-<br>
-<br>
-
-<img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
-우리
-
-<br>
 <br>
 
 <!--내용 부분-->
