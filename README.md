@@ -3,7 +3,7 @@
 <br>
 
 <h4 align="center">
-김민영 입니다.
+🐱 김민영 입니다 🐱
   <br>
 
 <br>
@@ -12,7 +12,23 @@
 <br>
 
 <img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
+🐈🐈우리집 고양이 츄르를 좋아해🐈🐈
+🐈🐈그래서 두개를 줬더니🐈🐈
+🐈🐈우리집 고양이🐈🐈
+🐈🐈돼지야🐈🐈
+<br>
 
+<h4 align="center">
+🐱 김민영 입니다. 🐱
+  <br>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
+우리
 
 <br>
 <br>
