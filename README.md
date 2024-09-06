@@ -6,8 +6,12 @@
 김민영 입니다.
   <br>
 
+<br>
+<br>
+<br>
+<br>
 
-<img src="./images/맹꽁이2.jpg" alt="이미지 설명" width="200" height="200">
+<img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
 
 
 <br>
