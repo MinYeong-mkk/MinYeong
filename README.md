@@ -60,3 +60,10 @@
       src="https://img.shields.io/badge/kmy26377538@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
+</div>
