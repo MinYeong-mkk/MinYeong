@@ -41,17 +41,22 @@
 <br>
 
 ## 🎮 Interest
-나는 솔로 - 제일 좋아하는 것<br>
+👩‍❤️‍👨 나는 솔로 - 제일 좋아하는 것<br>
 🏊🏻 수영 - 하고 있는 것<br>
 🏃 러닝 - 하고 싶은 것<br>
 📖 독서 - 이제 막 시작한 것<br>
 
+<br>
+<br>
 
 <h3 align="center">🛠 Skill 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Eclipse-any?logo=eclipse&color=%2341337d"/>
+
+<br>
+<br>
 
 </div>
 <div align="center">
@@ -62,9 +67,6 @@
 
 
 <br>
-
-
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
