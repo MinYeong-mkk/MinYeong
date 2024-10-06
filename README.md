@@ -26,7 +26,7 @@
 
 ## 📜 Certificates
 
-🧾 Engineer Information Processing (정보처리기사) (2022.11.25.)<br>
+🧾 정보처리기사 (2022.11.25.)<br>
 🧾 SQLD (2024.04.05.)<br>
 🧾 ADsP (2024.09.06.)<br>
 🧾 CSTS(FL) (2022.07.01.)<br>
@@ -34,11 +34,6 @@
 <br>
 <br>
 
-## 🎮 Interest
-👩‍❤️‍👨 나는 솔로 <br>
-🏊🏻 수영 <br>
-🏃 러닝 <br>
-📖 독서 <br>
 
 <br>
 <br>
@@ -75,6 +70,3 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="./images/맹꽁이.gif" alt="이미지 설명" width="200" height="200">
-</div>
