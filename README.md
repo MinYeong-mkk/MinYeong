@@ -4,7 +4,9 @@
 <div align="center"> 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0&height=300&section=header&text=MinYeong-mkk&fontSize=70"></p>
 <br>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/MinYeong-mkk"/>
+</a>
 <br/>
 
 <h4 align="center">
