@@ -5,10 +5,13 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0&height=300&section=header&text=MinYeong-mkk&fontSize=70"></p>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/MinYeong-mkk"/>
+  <img
+    src="https://render.gitanimals.org/lines/MinYeong-mkk?pet-id=636339757392950343"
+    width="600"
+    height="140"
+  />
 </a>
-<br/>
-
+<br>
 <h4 align="center">
 안녕하세요. 김민영 입니다 
   <br>
@@ -35,7 +38,18 @@
 
 <br>
 <br>
+<div align="center">    
 
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinYeong-mkk&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+</div>
+
+<div align="center">    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MinYeong-mkk&show_icons=true&theme=swift&hide_border=true&count_private=true" width="40%" />
+  <a/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinYeong-mkk&layout=compact&theme=swift&hide_border=true" width="30.5%"  />
+</div>
 
 <br>
 <br>
@@ -61,6 +75,8 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
+
+<br>
 <div align="center">
   </a>
   <a href="mailto:kmy26377538@gmail.com">
@@ -68,7 +84,10 @@
       src="https://img.shields.io/badge/kmy26377538@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
 <br>
 <br>
+<a href="https://github.com/devxb/gitanimals">
+    <img width='700' src="https://render.gitanimals.org/farms/MinYeong-mkk"/>
+  </a>
+</p>
 
