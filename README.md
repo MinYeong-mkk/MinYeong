@@ -40,16 +40,17 @@
 <br>
 <div align="center">    
 
-  <b><em>GitHub Stats:</em></b> <br/>
+  ## 📊 GitHub Stats
+  <br>
+  <em></em>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinYeong-mkk&hide_border=true" alt="GitHub Stats" /> <br/><br/>
 </div>
 
-<div align="center">    
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MinYeong-mkk&show_icons=true&theme=swift&hide_border=true&count_private=true" width="40%" />
-  <a/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinYeong-mkk&layout=compact&theme=swift&hide_border=true" width="30.5%"  />
-</div>
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
+</p>
 
 <br>
 <br>
@@ -75,7 +76,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-
+<br>
 <br>
 <div align="center">
   </a>
