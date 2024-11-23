@@ -1,5 +1,3 @@
-
-
 <br>
 <div align="center"> 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0&height=300&section=header&text=MinYeong-mkk&fontSize=70"></p>
